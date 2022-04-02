@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\custom_player\nerthus\karekafa\salvadordali_el1"
+	"$bumpmap" "models\player\custom_player\nerthus\karekafa\def22"
+
+	"$phong" "1"
+	"$phongboost" ".5"
+	"$phongexponent" "15"	
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "1"
+	"$color2"			"[0 0 0]"
+	"$blendTintByBaseAlpha"		"1"
+
+}

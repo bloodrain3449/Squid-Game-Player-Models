@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\custom_player\dexter\salvadordali\salvadordali_kol"
+	"$bumpmap" "models\player\custom_player\dexter\salvadordali\def1"
+
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" ".1"	
+
+	"$phongfresnelranges"	"[.25 .5 8]"
+	"$halflambert" "0"
+}
